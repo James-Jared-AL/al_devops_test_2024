@@ -16,7 +16,6 @@ Before you begin, ensure you have the following:
 2. **Clone Your Forked Repository**:
     
     ```bash
-    bashCopy code
     git clone https://github.com/your-username/repository-name.git
     cd repository-name
     
@@ -25,7 +24,6 @@ Before you begin, ensure you have the following:
 3. **Create a New Branch**:
     
     ```bash
-    bashCopy code
     git checkout -b feature/your-name-terraform
     
     ```
@@ -58,7 +56,6 @@ You are acting as a DevOps engineer within Amber Labs, tasked by a client to set
 1. **Commit Your Changes**:
     
     ```bash
-    bashCopy code
     git add .
     git commit -m "Complete DevOps assessment tasks"
     
@@ -67,7 +64,6 @@ You are acting as a DevOps engineer within Amber Labs, tasked by a client to set
 2. **Push Your Branch**:
     
     ```bash
-    bashCopy code
     git push origin feature/your-name-terraform
     
     ```
