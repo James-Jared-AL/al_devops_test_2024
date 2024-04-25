@@ -41,14 +41,13 @@ You are acting as a DevOps engineer within Amber Labs, tasked by a client to set
 
 ## **Follow-Up Questions**
 
-Please prepare answers to the following questions, which may be discussed during your interview:
+Please submit the answers to these questions in a README.md file.
 
 1. Describe the CI/CD process for creating and deploying the Docker image using GitHub Actions, including how the Terraform configurations are applied.
 2. How would you implement a serverless function using AWS Lambda to automatically copy files from one S3 bucket to another upon file arrival?
 3. Discuss strategies for securing files in the S3 buckets, including IAM policies, bucket policies, and encryption options.
 4. If we were to containerize the website instead of using EC2, what hosting options could we consider?
 
-Thank you for participating in our assessment. We look forward to reviewing your submission and discussing your approach and solutions during the follow-up interview.
 
 ## **Submission Instructions**
 
@@ -60,4 +59,5 @@ Thank you for participating in our assessment. We look forward to reviewing your
     - Set 'base' to the main branch of the original repository and 'compare' to your feature branch.
     - Fill in the details and create the pull request.
 
+Thank you for participating in our assessment. We look forward to reviewing your submission and discussing your approach and solutions during the follow-up interview.
 
