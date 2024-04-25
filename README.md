@@ -1,5 +1,3 @@
-# **DevOps Technical Assessment - Amber Labs**
-
 Welcome to the technical assessment for the DevOps Engineer position at Amber Labs. This assessment is designed to evaluate your proficiency in managing and deploying infrastructure using AWS and Terraform. Please follow the instructions carefully and submit your work as described below.
 
 ## **Prerequisites**
