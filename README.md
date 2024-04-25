@@ -14,19 +14,7 @@ Before you begin, ensure you have the following:
 
 1. **Fork the Repository**: Click the 'Fork' button at the top right of this page to create a copy of this repository under your GitHub profile.
 2. **Clone Your Forked Repository**:
-    
-    ```bash
-    git clone https://github.com/your-username/repository-name.git
-    cd repository-name
-    
-    ```
-    
 3. **Create a New Branch**:
-    
-    ```bash
-    git checkout -b feature/your-name-terraform
-    
-    ```
     
 
 ## **Assessment Scenario**
@@ -51,29 +39,6 @@ You are acting as a DevOps engineer within Amber Labs, tasked by a client to set
     - Application: "Webserver"
 - Ensure your code is well-structured and documented.
 
-## **Submission Instructions**
-
-1. **Commit Your Changes**:
-    
-    ```bash
-    git add .
-    git commit -m "Complete DevOps assessment tasks"
-    
-    ```
-    
-2. **Push Your Branch**:
-    
-    ```bash
-    git push origin feature/your-name-terraform
-    
-    ```
-    
-3. **Create a Pull Request**:
-    - Navigate to the 'Pull Requests' tab in the original repository.
-    - Click 'New Pull Request'.
-    - Set 'base' to the main branch of the original repository and 'compare' to your feature branch.
-    - Fill in the details and create the pull request.
-
 ## **Follow-Up Questions**
 
 Please prepare answers to the following questions, which may be discussed during your interview:
@@ -84,3 +49,15 @@ Please prepare answers to the following questions, which may be discussed during
 4. If we were to containerize the website instead of using EC2, what hosting options could we consider?
 
 Thank you for participating in our assessment. We look forward to reviewing your submission and discussing your approach and solutions during the follow-up interview.
+
+## **Submission Instructions**
+
+1. **Commit Your Changes**:
+2. **Push Your Branch**:
+3. **Create a Pull Request**:
+    - Navigate to the 'Pull Requests' tab in the original repository.
+    - Click 'New Pull Request'.
+    - Set 'base' to the main branch of the original repository and 'compare' to your feature branch.
+    - Fill in the details and create the pull request.
+
+
