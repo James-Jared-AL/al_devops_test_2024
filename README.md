@@ -37,15 +37,6 @@ You are acting as a DevOps engineer within Amber Labs, tasked by a client to set
     - Application: "Webserver"
 - Ensure your code is well-structured and documented.
 
-## **Follow-Up Questions**
-
-Please submit the answers to these questions in a README.md file.
-
-1. Describe the CI/CD process for creating and deploying the Docker image using GitHub Actions, including how the Terraform configurations are applied.
-2. How would you implement a serverless function using AWS Lambda to automatically copy files from one S3 bucket to another upon file arrival?
-3. Discuss strategies for securing files in the S3 buckets, including IAM policies, bucket policies, and encryption options.
-4. If we were to containerize the website instead of using EC2, what hosting options could we consider?
-
 
 ## **Submission Instructions**
 
